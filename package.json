@@ -2,6 +2,7 @@
   "name": "palitan",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://markanthonyuy.github.io/palitan",
   "dependencies": {
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
